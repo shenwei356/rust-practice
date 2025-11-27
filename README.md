@@ -1,3 +1,8 @@
+# Learning resources
+
+## Online practice
+
+- https://rustfinity.com/
 
 ## General
 
